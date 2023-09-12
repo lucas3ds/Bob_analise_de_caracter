@@ -1,0 +1,16 @@
+Instruções
+Bob é um adolescente indiferente. Na conversa, suas respostas são muito limitadas.
+
+Bob responde 'Claro'. se você fizer uma pergunta a ele, como 'Como vai você?'.
+
+Ele responde 'Uau, relaxa!' se você GRITAR COM ELE (em todas as letras maiúsculas).
+
+Ele responde 'Calma, eu sei o que estou fazendo!' se você gritar uma pergunta para ele.
+
+Ele diz 'Tudo bem. Seja desse jeito!' se você se dirigir a ele sem realmente dizer nada.
+
+Ele responde 'Tanto faz.' para qualquer outra coisa.
+
+O parceiro de conversação de Bob é um purista quando se trata de comunicação escrita e sempre segue as regras normais em relação à pontuação das frases em português.
+
+funte: https://exercism.org
